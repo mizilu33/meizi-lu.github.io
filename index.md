@@ -1,5 +1,5 @@
 ---
-layout
+layout: homepage
 ---
 
 以上表示使用模板
